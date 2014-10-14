@@ -20,8 +20,7 @@ GCHelper puede ser utilizado en otros proyectos.
 
 ViewController.m
 
-`
-- (void)viewDidLoad {
+`- (void)viewDidLoad {
     [super viewDidLoad];
     
     self.currentScore = 0;
